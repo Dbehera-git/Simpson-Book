@@ -6,6 +6,8 @@ Character Details: Get information about different Simpsons characters, includin
 Image Gallery: View a collection of images featuring the beloved characters from the show.
 Search Functionality: Easily find specific characters using the search feature.
 Favorites: Mark your favorite characters for quick access.
+clone the repository:
+https://github.com/Dbehera-git/Simpson-Book.git
 #language:
 Swift
 #Skill:
